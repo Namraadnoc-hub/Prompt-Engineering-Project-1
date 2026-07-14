@@ -1,0 +1,21 @@
+# Requirements
+
+This project focuses on Prompt Engineering and therefore does not require any external Python libraries.
+
+## Software Used
+
+- ChatGPT / Compatible Large Language Model
+- Visual Studio Code
+- Git
+- GitHub
+
+## Output Format
+
+- JSON
+
+## Prompting Techniques
+
+- Zero-Shot Prompting
+- Few-Shot Prompting
+- Delimiter-Based Prompting
+- Deterministic Prompt Design
